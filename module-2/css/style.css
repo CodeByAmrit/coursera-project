@@ -15,6 +15,7 @@
 
 .box1, .box2, .box3{
     margin: 0.5%;
+    margin-top: 20px;
     float: left;
     box-sizing: border-box;
     border: 1px solid;
